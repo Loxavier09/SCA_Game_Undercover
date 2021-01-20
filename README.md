@@ -1,6 +1,6 @@
 # SCA_Game_Undercover
-Project TKPPL 2020/2021
-Topik : Game Undercover (Kuis Ular Tangga)
+Project TKPPL 2020/2021 <br>
+Topik : Game Undercover (Kuis Ular Tangga) <br>
 Nama Anggota :
 1. David (171111334)
 2. Lonardo (171111032)
